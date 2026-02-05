@@ -1,0 +1,22 @@
+{
+  "name": "pmprompt-skills",
+  "owner": {
+    "name": "pmprompt",
+    "url": "https://pmprompt.com"
+  },
+  "metadata": {
+    "description": "Public pmprompt plugin marketplace (product management prompt skills)",
+    "version": "0.1.0",
+    "repository": "https://github.com/pmprompt/skills"
+  },
+  "plugins": [
+    {
+      "name": "pmprompt",
+      "description": "pmprompt public plugin (product management prompt skills)",
+      "source": "./",
+      "strict": false,
+      "skills": [
+      ]
+    }
+  ]
+}

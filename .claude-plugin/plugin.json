@@ -1,0 +1,10 @@
+{
+  "name": "pmprompt",
+  "description": "pmprompt public plugin (product management prompt skills)",
+  "version": "0.1.0",
+  "author": {
+    "name": "pmprompt",
+    "url": "https://pmprompt.com"
+  },
+  "repository": "https://github.com/pmprompt/skills"
+}
