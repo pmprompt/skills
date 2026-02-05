@@ -4,7 +4,6 @@ A public **Claude Code plugin** that packages the product management skills from
 
 - Browse the skills on pmprompt: https://pmprompt.com/skills
 - Guide: https://pmprompt.com/blog/ai-agent-skills-guide
-- Learn more about pmprompt: https://pmprompt.com
 
 ## What this plugin is
 
