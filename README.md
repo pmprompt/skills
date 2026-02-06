@@ -1,8 +1,9 @@
 # Claude plugin for product managers (pmprompt)
 
-A public **Claude plugin** for professional product managers.
+A free / open source [**Claude plugin for product managers**](https://pmprompt.com/claude-product-management-plugin).
 
 It works with:
+- **Claude Cowork**
 - **Claude Code** (terminal)
 - **Cowork** (Claude’s knowledge-work experience)
 
