@@ -1,13 +1,19 @@
-# Claude Code Product Management Plugin
+# Claude plugin for product managers (pmprompt)
 
-A public **Claude Code plugin** that packages the product management skills from **pmprompt**.
+A public **Claude plugin** for professional product managers.
 
-- Browse the skills on pmprompt: https://pmprompt.com/skills
+It works with:
+- **Claude Code** (terminal)
+- **Cowork** (Claude’s knowledge-work experience)
+
+Links:
+- Skills library: https://pmprompt.com/skills
 - Guide: https://pmprompt.com/blog/ai-agent-skills-guide
+- Repo: https://github.com/pmprompt/skills
 
-## What this plugin is
+## What this is
 
-Claude Code plugins let you share skills across projects without copy/pasting `.claude/skills` folders.
+Plugins bundle skills/commands so you can install them once and reuse them across projects.
 
 Once installed, these skills show up under the `pmprompt` namespace:
 
@@ -15,7 +21,9 @@ Once installed, these skills show up under the `pmprompt` namespace:
 - `/pmprompt:jobs-to-be-done`
 - `/pmprompt:working-backwards`
 
-## Quickstart (local)
+## Install
+
+### Option 1: Claude Code (local dev / from GitHub)
 
 ```bash
 git clone https://github.com/pmprompt/skills.git
@@ -59,9 +67,20 @@ Then run any skill:
 | [user-feedback-synthesizer](skills/user-feedback-synthesizer/) | Analyze collections of user feedback to identify patterns and themes. Use when you have user feedback from multiple sources that needs synthesis. |
 | [working-backwards](skills/working-backwards/) | Use when asked to "working backwards", "PR/FAQ", "Amazon PR/FAQ", "write a press release", "define a new product", or "write a customer-focused PRD". Helps define products by starting with the customer problem and desired outcome before building. The Working Backwards process (developed at Amazon) forces clarity on customer value before committing engineering resources. |
 
-## Publishing / versioning
+## Install (via plugin directory / marketplace)
 
-This repo is meant to be publishable as a plugin marketplace entry.
+If/when you find this plugin in the Claude plugin directory, install it from there.
+
+If you want to add the marketplace directly in Claude Code:
+
+```text
+/plugin marketplace add pmprompt/skills
+/plugin install pmprompt
+```
+
+(Exact install UI may vary between Claude Code and Cowork.)
+
+## Publishing / versioning
 
 - Plugin manifest: `.claude-plugin/plugin.json`
 - Marketplace metadata: `.claude-plugin/marketplace.json`

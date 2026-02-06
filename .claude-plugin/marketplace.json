@@ -5,14 +5,30 @@
     "url": "https://pmprompt.com"
   },
   "metadata": {
-    "description": "Public pmprompt plugin marketplace (product management prompt skills)",
-    "version": "0.1.0",
+    "description": "Claude plugin for product managers: reusable PM skills for Claude Code and Cowork.",
+    "version": "0.2.0",
     "repository": "https://github.com/pmprompt/skills"
   },
   "plugins": [
     {
       "name": "pmprompt",
-      "description": "pmprompt public plugin (product management prompt skills)",
+      "description": "Claude plugin for product managers: reusable PM skills (PRDs, roadmaps, prioritization, positioning) for Claude Code and Cowork.",
+      "homepage": "https://pmprompt.com/skills",
+      "repository": "https://github.com/pmprompt/skills",
+      "license": "MIT",
+      "keywords": [
+        "claude",
+        "claude-plugin",
+        "claude-code",
+        "cowork",
+        "product-management",
+        "prd",
+        "roadmap",
+        "prioritization",
+        "jobs-to-be-done",
+        "shape-up",
+        "positioning"
+      ],
       "source": "./",
       "strict": false,
       "skills": [
