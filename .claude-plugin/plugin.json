@@ -7,7 +7,7 @@
     "url": "https://pmprompt.com"
   },
   "homepage": "https://pmprompt.com/skills",
-  "repository": "https://github.com/pmprompt/skills",
+  "repository": "https://github.com/pmprompt/claude-plugin-product-management",
   "license": "MIT",
   "keywords": [
     "claude",

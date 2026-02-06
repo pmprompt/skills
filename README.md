@@ -10,7 +10,7 @@ It works with:
 Links:
 - Skills library: https://pmprompt.com/skills
 - Guide: https://pmprompt.com/blog/ai-agent-skills-guide
-- Repo: https://github.com/pmprompt/skills
+- Repo: https://github.com/pmprompt/claude-plugin-product-management
 
 ## What this is
 
@@ -27,7 +27,7 @@ Once installed, these skills show up under the `pmprompt` namespace:
 ### Option 1: Claude Code (local dev / from GitHub)
 
 ```bash
-git clone https://github.com/pmprompt/skills.git
+git clone https://github.com/pmprompt/claude-plugin-product-management.git
 cd skills
 claude --plugin-dir .
 ```
@@ -75,7 +75,7 @@ If/when you find this plugin in the Claude plugin directory, install it from the
 If you want to add the marketplace directly in Claude Code:
 
 ```text
-/plugin marketplace add pmprompt/skills
+/plugin marketplace add pmprompt/claude-plugin-product-management
 /plugin install pmprompt
 ```
 

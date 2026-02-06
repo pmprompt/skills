@@ -7,14 +7,14 @@
   "metadata": {
     "description": "Claude plugin for product managers: reusable PM skills for Claude Code and Cowork.",
     "version": "0.2.0",
-    "repository": "https://github.com/pmprompt/skills"
+    "repository": "https://github.com/pmprompt/claude-plugin-product-management"
   },
   "plugins": [
     {
       "name": "pmprompt",
       "description": "Claude plugin for product managers: reusable PM skills (PRDs, roadmaps, prioritization, positioning) for Claude Code and Cowork.",
       "homepage": "https://pmprompt.com/skills",
-      "repository": "https://github.com/pmprompt/skills",
+      "repository": "https://github.com/pmprompt/claude-plugin-product-management",
       "license": "MIT",
       "keywords": [
         "claude",
