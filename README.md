@@ -10,7 +10,7 @@ It works with:
 - **Claude Code** (terminal)
 
 Links:
-- Landing page: https://pmprompt.com/claude-product-management-plugin
+- Learn more: https://pmprompt.com/claude-product-management-plugin
 - Skills library: https://pmprompt.com/skills
 - Agent skills guide: https://pmprompt.com/blog/ai-agent-skills-guide
 - Repo: https://github.com/pmprompt/claude-plugin-product-management
