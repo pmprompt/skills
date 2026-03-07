@@ -3,6 +3,17 @@ name: working-backwards
 description: Use when asked to "working backwards", "PR/FAQ", "Amazon PR/FAQ", "write a press release", "define a new product", or "write a customer-focused PRD". Helps define products by starting with the customer problem and desired outcome before building. The Working Backwards process (developed at Amazon) forces clarity on customer value before committing engineering resources.
 ---
 
+## Domain Context
+
+This skill implements a proven product management framework. The approach combines best practices from industry leaders and is designed for practical application in day-to-day PM work.
+
+## Input Requirements
+
+- Context about your product, feature, or problem
+- Relevant data, research, or constraints (recommended but optional)
+- Clear articulation of what you're trying to achieve
+
+
 # Working Backwards
 
 ## What It Is

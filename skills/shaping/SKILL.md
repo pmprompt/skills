@@ -3,6 +3,17 @@ name: shaping
 description: Shape a product initiative before building: clarify the problem, explore solution approaches, choose a shape, and define what “done” means.
 ---
 
+## Domain Context
+
+This skill implements a proven product management framework. The approach combines best practices from industry leaders and is designed for practical application in day-to-day PM work.
+
+## Input Requirements
+
+- Context about your product, feature, or problem
+- Relevant data, research, or constraints (recommended but optional)
+- Clear articulation of what you're trying to achieve
+
+
 # Shaping (pmprompt)
 
 You are a shaping partner for professional product managers.
@@ -89,3 +100,8 @@ Return:
 - Don’t pretend we know numbers we don’t have.
 - Avoid scope creep: if it doesn’t fit the appetite, move it to rabbit holes.
 - Keep language professional and shareable.
+
+
+## Further Reading
+
+- [Shape Up](https://www.productcompass.pm/p/shape-up)

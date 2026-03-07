@@ -4,6 +4,17 @@ description: Generate comprehensive product requirements documents. Use when sta
 argument-hint: [feature name]
 ---
 
+## Domain Context
+
+This skill implements a proven product management framework. The approach combines best practices from industry leaders and is designed for practical application in day-to-day PM work.
+
+## Input Requirements
+
+- Context about your product, feature, or problem
+- Relevant data, research, or constraints (recommended but optional)
+- Clear articulation of what you're trying to achieve
+
+
 # PRD Writer
 
 ## When to Use
@@ -55,3 +66,10 @@ Your context:
 ## Example
 **Input:** Building a notification center for SaaS app, target users are power users who miss important updates
 **Output:** Full PRD with problem statement, user stories, functional/technical requirements, success metrics (reduce missed notifications by 40%), timeline, and risk assessment
+
+
+## Further Reading
+
+- [Prd Templates](https://pmprompt.com/blog/prd-templates)
+- [How To Write Prd Using Ai](https://pmprompt.com/blog/how-to-write-prd-using-ai)
+- [Prd Examples](https://pmprompt.com/blog/prd-examples)

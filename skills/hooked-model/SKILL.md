@@ -3,6 +3,17 @@ name: hooked-model
 description: Use when asked to "build habit-forming products", "Hooked model", "trigger action reward investment", "create sticky behavior loops", or "design habit loops". Helps design products that form unprompted user habits. The Hooked Model (created by Nir Eyal) explains how products create habits through Trigger, Action, Variable Reward, and Investment.
 ---
 
+## Domain Context
+
+This skill implements a proven product management framework. The approach combines best practices from industry leaders and is designed for practical application in day-to-day PM work.
+
+## Input Requirements
+
+- Context about your product, feature, or problem
+- Relevant data, research, or constraints (recommended but optional)
+- Clear articulation of what you're trying to achieve
+
+
 # The Hooked Model
 
 ## What It Is
@@ -36,3 +47,8 @@ Use the Hooked Model when you need to:
 **Books:**
 - *Hooked: How to Build Habit-Forming Products* by Nir Eyal
 - *Indistractable: How to Control Your Attention and Choose Your Life* by Nir Eyal
+
+
+## Further Reading
+
+- [Hooked Model](https://www.productcompass.pm/p/hooked-model)

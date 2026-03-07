@@ -4,6 +4,17 @@ description: Create compelling progress updates and release notes. Use when ship
 argument-hint: [product/feature/sprint changes]
 ---
 
+## Domain Context
+
+This skill implements a proven product management framework. The approach combines best practices from industry leaders and is designed for practical application in day-to-day PM work.
+
+## Input Requirements
+
+- Context about your product, feature, or problem
+- Relevant data, research, or constraints (recommended but optional)
+- Clear articulation of what you're trying to achieve
+
+
 # Stakeholder Update Generator
 
 ## When to Use
@@ -45,3 +56,8 @@ Changes to document:
 ## Example
 **Input:** Shipped notification center, improved search performance, fixed 15 bugs
 **Output:** Structured update highlighting "Never miss an important update" (notification center benefits), "Find anything in seconds" (search improvements), professional tone, metrics included (3x faster search), next steps mentioned
+
+
+## Further Reading
+
+- [Stakeholder Update Templates](https://pmprompt.com/blog/stakeholder-update-templates)

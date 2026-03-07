@@ -4,6 +4,17 @@ description: Design robust A/B test experiments. Use when testing a new feature,
 argument-hint: [feature/change to test]
 ---
 
+## Domain Context
+
+This skill implements a proven product management framework. The approach combines best practices from industry leaders and is designed for practical application in day-to-day PM work.
+
+## Input Requirements
+
+- Context about your product, feature, or problem
+- Relevant data, research, or constraints (recommended but optional)
+- Clear articulation of what you're trying to achieve
+
+
 # A/B Test Designer
 
 ## When to Use

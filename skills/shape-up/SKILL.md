@@ -3,6 +3,17 @@ name: shape-up
 description: Use when asked to "shape up", "run a shaping session", "set an appetite", "scope a project without estimates", "betting table", or "ship in fixed cycles". Helps teams escape estimate-driven development and Scrum fatigue. The Shape Up method (created by Ryan Singer at Basecamp/37signals) uses fixed time boxes, variable scope, and collaborative shaping to ship meaningful work predictably.
 ---
 
+## Domain Context
+
+This skill implements a proven product management framework. The approach combines best practices from industry leaders and is designed for practical application in day-to-day PM work.
+
+## Input Requirements
+
+- Context about your product, feature, or problem
+- Relevant data, research, or constraints (recommended but optional)
+- Clear articulation of what you're trying to achieve
+
+
 # Shape Up
 
 ## What It Is
@@ -40,3 +51,8 @@ Use Shape Up when you need to:
 **Books:**
 - *Shape Up* by Ryan Singer (free at basecamp.com/shapeup)
 - *Demand-Side Sales 101* by Bob Moesta
+
+
+## Further Reading
+
+- [Shape Up](https://www.productcompass.pm/p/shape-up)

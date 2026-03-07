@@ -3,6 +3,17 @@ name: monetizing-innovation
 description: Use when asked about "pricing strategy", "willingness to pay", "value metric", "packaging tiers", "good better best pricing", "subscription vs usage pricing", or "price before product". Helps design products customers will pay for and choose pricing models that capture value. Based on Madhavan Ramanujam's Monetizing Innovation framework from Simon-Kucher.
 ---
 
+## Domain Context
+
+This skill implements a proven product management framework. The approach combines best practices from industry leaders and is designed for practical application in day-to-day PM work.
+
+## Input Requirements
+
+- Context about your product, feature, or problem
+- Relevant data, research, or constraints (recommended but optional)
+- Clear articulation of what you're trying to achieve
+
+
 # Monetizing Innovation
 
 ## What It Is
@@ -41,3 +52,8 @@ Use Monetizing Innovation when you need to:
 - *Monetizing Innovation* by Madhavan Ramanujam & Georg Tacke
 - *Scaling Innovation* by Madhavan Ramanujam
 - *Confessions of the Pricing Man* by Hermann Simon
+
+
+## Further Reading
+
+- [Monetizing Innovation](https://www.productcompass.pm/p/monetizing-innovation)

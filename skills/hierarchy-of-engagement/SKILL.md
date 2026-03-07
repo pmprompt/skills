@@ -3,6 +3,17 @@ name: hierarchy-of-engagement
 description: Use when asked to "define our core action", "North Star metric", "accruing benefits", "improve retention mechanics", "hierarchy of engagement", or "Sarah Tavel framework". Helps consumer products identify the actions and benefits that drive long-term retention. The Hierarchy of Engagement framework (created by Sarah Tavel at Benchmark) maps progression from core action to mounting loss.
 ---
 
+## Domain Context
+
+This skill implements a proven product management framework. The approach combines best practices from industry leaders and is designed for practical application in day-to-day PM work.
+
+## Input Requirements
+
+- Context about your product, feature, or problem
+- Relevant data, research, or constraints (recommended but optional)
+- Clear articulation of what you're trying to achieve
+
+
 # Hierarchy of Engagement
 
 ## What It Is
@@ -39,3 +50,8 @@ Don't apply this framework when:
 **Writing:**
 - *The Hierarchy of Engagement* by Sarah Tavel (Medium)
 - *The Hierarchy of Engagement, Expanded* by Sarah Tavel
+
+
+## Further Reading
+
+- [Hierarchy Of Engagement](https://www.productcompass.pm/p/hierarchy-of-engagement)

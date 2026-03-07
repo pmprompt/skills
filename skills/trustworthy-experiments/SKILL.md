@@ -3,6 +3,17 @@ name: trustworthy-experiments
 description: Use when asked to "run an A/B test", "design an experiment", "check statistical significance", "trust our results", "avoid false positives", or "experiment guardrails". Helps design, run, and interpret controlled experiments correctly. Based on Ronny Kohavi's framework from "Trustworthy Online Controlled Experiments".
 ---
 
+## Domain Context
+
+This skill implements a proven product management framework. The approach combines best practices from industry leaders and is designed for practical application in day-to-day PM work.
+
+## Input Requirements
+
+- Context about your product, feature, or problem
+- Relevant data, research, or constraints (recommended but optional)
+- Clear articulation of what you're trying to achieve
+
+
 # Trustworthy Experiments
 
 ## What It Is

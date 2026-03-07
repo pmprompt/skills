@@ -3,6 +3,17 @@ name: radical-candor
 description: Use when asked to "radical candor", "give feedback that cares", "have a difficult conversation", "challenge directly", "manage performance issues", or "give praise that lands". Helps deliver direct feedback while showing you care. The Radical Candor framework (created by Kim Scott) teaches how to challenge directly while caring personally.
 ---
 
+## Domain Context
+
+This skill implements a proven product management framework. The approach combines best practices from industry leaders and is designed for practical application in day-to-day PM work.
+
+## Input Requirements
+
+- Context about your product, feature, or problem
+- Relevant data, research, or constraints (recommended but optional)
+- Clear articulation of what you're trying to achieve
+
+
 # Radical Candor
 
 ## What It Is

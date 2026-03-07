@@ -3,6 +3,17 @@ name: growth-loops
 description: Use when asked to "growth loops", "build a growth engine", "design a viral loop", "create a content loop", "move beyond paid acquisition", or "why isn't growth compounding". Helps design self-reinforcing growth systems where output becomes input. The Growth Loops framework (from Brian Balfour / Reforge and Elena Verna) shifts thinking from linear funnels to compounding loops.
 ---
 
+## Domain Context
+
+This skill implements a proven product management framework. The approach combines best practices from industry leaders and is designed for practical application in day-to-day PM work.
+
+## Input Requirements
+
+- Context about your product, feature, or problem
+- Relevant data, research, or constraints (recommended but optional)
+- Clear articulation of what you're trying to achieve
+
+
 # Growth Loops
 
 ## What It Is
@@ -42,3 +53,8 @@ Use Growth Loops when you need to:
 - Brian Balfour (Reforge) — loops framework, platform cycles
 - Elena Verna — product-led sales, PQA, B2B growth
 - Casey Winters — kindle vs. fire strategies
+
+
+## Further Reading
+
+- [Growth Loops](https://www.productcompass.pm/p/growth-loops)

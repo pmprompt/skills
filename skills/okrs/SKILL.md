@@ -3,6 +3,17 @@ name: okrs
 description: Use when asked to "set OKRs", "objectives and key results", "quarterly OKR planning", "align objectives", "measure OKR progress", or "focus priorities with OKRs". Helps teams focus on what matters most and create a cadence of progress. The OKR framework (originated by Andy Grove at Intel, popularized by John Doerr at Google) creates alignment, focus, and learning cycles. Christina Wodtke's Radical Focus approach emphasizes simplicity and avoiding common pitfalls.
 ---
 
+## Domain Context
+
+This skill implements a proven product management framework. The approach combines best practices from industry leaders and is designed for practical application in day-to-day PM work.
+
+## Input Requirements
+
+- Context about your product, feature, or problem
+- Relevant data, research, or constraints (recommended but optional)
+- Clear articulation of what you're trying to achieve
+
+
 # OKRs (Objectives and Key Results)
 
 ## What It Is
@@ -37,3 +48,9 @@ Use OKRs when you need to:
 - *Radical Focus* (2nd Edition) by Christina Wodtke
 - *Measure What Matters* by John Doerr
 - *High Output Management* by Andy Grove
+
+
+## Further Reading
+
+- [Okr Generator For Pms](https://pmprompt.com/blog/okr-generator-for-pms)
+- [Okrs Radical Focus](https://www.productcompass.pm/p/okrs-radical-focus)

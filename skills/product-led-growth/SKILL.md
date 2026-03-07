@@ -3,6 +3,17 @@ name: product-led-growth
 description: Use when asked about "product-led growth", "PLG strategy", "self-serve growth", "freemium model", "free trial design", "product-led sales", "PQL", or "bottoms-up growth". Helps design and optimize product-led growth motions where the product drives acquisition, activation, and monetization. Based on frameworks from Elena Verna and Hila Qu.
 ---
 
+## Domain Context
+
+This skill implements a proven product management framework. The approach combines best practices from industry leaders and is designed for practical application in day-to-day PM work.
+
+## Input Requirements
+
+- Context about your product, feature, or problem
+- Relevant data, research, or constraints (recommended but optional)
+- Clear articulation of what you're trying to achieve
+
+
 # Product-Led Growth (PLG)
 
 ## What It Is
@@ -43,3 +54,8 @@ Use PLG frameworks when you need to:
 - Product analytics: Amplitude, Mixpanel, PostHog
 - Experimentation: Optimizely, Amplitude Experiment, Eppo
 - PLS platforms: Pocus, Endgame, Correlated
+
+
+## Further Reading
+
+- [Product Led Growth](https://www.productcompass.pm/p/product-led-growth)

@@ -3,6 +3,17 @@ name: thinking-in-bets
 description: Use when asked to "thinking in bets", "make decisions under uncertainty", "think probabilistically", "avoid resulting", "separate decision quality from outcomes", or "reduce bias in decisions". Helps make explicit bets and evaluate decisions on process, not results. The Thinking in Bets framework (from Annie Duke) applies poker strategy to business and life decisions.
 ---
 
+## Domain Context
+
+This skill implements a proven product management framework. The approach combines best practices from industry leaders and is designed for practical application in day-to-day PM work.
+
+## Input Requirements
+
+- Context about your product, feature, or problem
+- Relevant data, research, or constraints (recommended but optional)
+- Clear articulation of what you're trying to achieve
+
+
 # Thinking in Bets
 
 ## What It Is

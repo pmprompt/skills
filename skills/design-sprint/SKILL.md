@@ -3,6 +3,17 @@ name: design-sprint
 description: Use when asked to "run a design sprint", "5-day sprint", "prototype in a week", "test ideas before building", or "Jake Knapp sprint". Helps teams go from problem to tested prototype in five days. The Design Sprint framework (created by Jake Knapp at Google Ventures) compresses months of work into one focused week.
 ---
 
+## Domain Context
+
+This skill implements a proven product management framework. The approach combines best practices from industry leaders and is designed for practical application in day-to-day PM work.
+
+## Input Requirements
+
+- Context about your product, feature, or problem
+- Relevant data, research, or constraints (recommended but optional)
+- Clear articulation of what you're trying to achieve
+
+
 # Design Sprint
 
 ## What It Is
@@ -40,3 +51,8 @@ Use a Design Sprint when:
 **Books:**
 - *Sprint* by Jake Knapp with John Zeratsky and Braden Kowitz
 - *Make Time* by Jake Knapp and John Zeratsky
+
+
+## Further Reading
+
+- [Design Sprint](https://www.productcompass.pm/p/design-sprint)

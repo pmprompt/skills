@@ -3,6 +3,17 @@ name: hierarchy-of-marketplaces
 description: Use when asked about "marketplace strategy", "chicken and egg problem", "liquidity", "two-sided market", "tipping a marketplace", "GMV growth", or "Sarah Tavel marketplaces". Helps founders and product leaders build defensible marketplace businesses by sequencing supply and demand. The Hierarchy of Marketplaces framework (created by Sarah Tavel / Benchmark) provides a progression from focused launch to market dominance.
 ---
 
+## Domain Context
+
+This skill implements a proven product management framework. The approach combines best practices from industry leaders and is designed for practical application in day-to-day PM work.
+
+## Input Requirements
+
+- Context about your product, feature, or problem
+- Relevant data, research, or constraints (recommended but optional)
+- Clear articulation of what you're trying to achieve
+
+
 # Hierarchy of Marketplaces
 
 ## What It Is
@@ -44,3 +55,8 @@ Use the Hierarchy of Marketplaces when you need to:
 **Books:**
 - *Platform Revolution* by Parker, Van Alstyne, and Choudary
 - *The Cold Start Problem* by Andrew Chen
+
+
+## Further Reading
+
+- [Hierarchy Of Marketplaces](https://www.productcompass.pm/p/hierarchy-of-marketplaces)

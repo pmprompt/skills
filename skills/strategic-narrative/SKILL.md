@@ -3,6 +3,17 @@ name: strategic-narrative
 description: Use when asked to "strategic narrative", "Andy Raskin", "tell our company story", "write a pitch deck", "explain why customers should care", or "movement narrative". Helps craft compelling narratives that define movements rather than just selling products. The Strategic Narrative framework (created by Andy Raskin) transforms pitches from feature lists into stories about change.
 ---
 
+## Domain Context
+
+This skill implements a proven product management framework. The approach combines best practices from industry leaders and is designed for practical application in day-to-day PM work.
+
+## Input Requirements
+
+- Context about your product, feature, or problem
+- Relevant data, research, or constraints (recommended but optional)
+- Clear articulation of what you're trying to achieve
+
+
 # Strategic Narrative
 
 ## What It Is

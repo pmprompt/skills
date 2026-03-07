@@ -3,6 +3,17 @@ name: product-led-seo
 description: Use when asked to "product-led SEO", "programmatic SEO", "build programmatic pages", "organic acquisition for product", "decide if SEO is worth it", or "optimize for AI search". Helps evaluate whether SEO fits your business model and how to approach it as a product, not just marketing. The Product-Led SEO framework (created by Eli Schwartz) treats SEO as building products for search users.
 ---
 
+## Domain Context
+
+This skill implements a proven product management framework. The approach combines best practices from industry leaders and is designed for practical application in day-to-day PM work.
+
+## Input Requirements
+
+- Context about your product, feature, or problem
+- Relevant data, research, or constraints (recommended but optional)
+- Clear articulation of what you're trying to achieve
+
+
 # Product-Led SEO
 
 ## What It Is
@@ -41,3 +52,8 @@ Use Product-Led SEO when you need to:
 **Podcasts:**
 - Lenny's Podcast: Eli Schwartz episode
 - Lenny's Podcast: Ethan Smith episode on AEO and AI search
+
+
+## Further Reading
+
+- [Product Led Seo](https://www.productcompass.pm/p/product-led-seo)

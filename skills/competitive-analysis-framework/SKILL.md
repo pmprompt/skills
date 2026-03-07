@@ -4,6 +4,17 @@ description: Create detailed competitive analysis and positioning. Use when laun
 argument-hint: [your product] [competitor 1] [competitor 2] [competitor 3]
 ---
 
+## Domain Context
+
+This skill implements a proven product management framework. The approach combines best practices from industry leaders and is designed for practical application in day-to-day PM work.
+
+## Input Requirements
+
+- Context about your product, feature, or problem
+- Relevant data, research, or constraints (recommended but optional)
+- Clear articulation of what you're trying to achieve
+
+
 # Competitive Analysis Framework
 
 ## When to Use
@@ -54,3 +65,8 @@ Your product context:
 - Look at actual product usage, not just marketing claims
 - Consider both feature parity and differentiation
 - Analyze pricing in c...
+
+
+## Further Reading
+
+- [Competitive Analysis Framework](https://pmprompt.com/blog/competitive-analysis-framework)

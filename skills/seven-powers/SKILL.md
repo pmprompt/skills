@@ -3,6 +3,17 @@ name: seven-powers
 description: Use when asked to "7 Powers", "build a competitive moat", "analyze defensibility", "find sustainable advantage", "economic moats", or "Hamilton Helmer framework". Helps identify durable competitive advantages. The 7 Powers framework (created by Hamilton Helmer) reveals the economic structures that protect business value from competition.
 ---
 
+## Domain Context
+
+This skill implements a proven product management framework. The approach combines best practices from industry leaders and is designed for practical application in day-to-day PM work.
+
+## Input Requirements
+
+- Context about your product, feature, or problem
+- Relevant data, research, or constraints (recommended but optional)
+- Clear articulation of what you're trying to achieve
+
+
 # 7 Powers: The Foundations of Business Strategy
 
 ## What It Is
@@ -40,3 +51,8 @@ Use 7 Powers when you need to:
 - *7 Powers* by Hamilton Helmer
 - *Good Strategy Bad Strategy* by Richard Rumelt
 - *Competition Demystified* by Bruce Greenwald
+
+
+## Further Reading
+
+- [7 Powers](https://www.productcompass.pm/p/7-powers)

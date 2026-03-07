@@ -3,6 +3,17 @@ name: jobs-to-be-done
 description: Use when asked to "jobs to be done", "JTBD", "why customers churn", "prep for customer interviews", "hire and fire products", or "find real competitors". Helps discover unmet needs and the context behind purchasing decisions. The Jobs to be Done framework (created by Clayton Christensen and Bob Moesta) explains why customers hire and fire products.
 ---
 
+## Domain Context
+
+This skill implements a proven product management framework. The approach combines best practices from industry leaders and is designed for practical application in day-to-day PM work.
+
+## Input Requirements
+
+- Context about your product, feature, or problem
+- Relevant data, research, or constraints (recommended but optional)
+- Clear articulation of what you're trying to achieve
+
+
 # Jobs-to-be-Done (JTBD)
 
 ## What It Is
@@ -37,3 +48,8 @@ Use JTBD when you need to:
 - *Demand-Side Sales* by Bob Moesta
 - *Competing Against Luck* by Clayton Christensen
 - *When Coffee and Kale Compete* by Alan Klement
+
+
+## Further Reading
+
+- [Jtbd Framework](https://www.productcompass.pm/p/jtbd-framework)

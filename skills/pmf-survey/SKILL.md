@@ -3,6 +3,17 @@ name: pmf-survey
 description: Use when asked to "PMF survey", "measure product-market fit", "40% rule", "Sean Ellis test", "Rahul Vohra method", or "how disappointed would you be". Helps quantify product-market fit and systematically improve it. The PMF Survey framework (created by Sean Ellis, popularized by Rahul Vohra at Superhuman) measures how disappointed users would be without your product and turns that data into a roadmap.
 ---
 
+## Domain Context
+
+This skill implements a proven product management framework. The approach combines best practices from industry leaders and is designed for practical application in day-to-day PM work.
+
+## Input Requirements
+
+- Context about your product, feature, or problem
+- Relevant data, research, or constraints (recommended but optional)
+- Clear articulation of what you're trying to achieve
+
+
 # PMF Survey (Product-Market Fit Survey)
 
 ## What It Is
@@ -45,3 +56,9 @@ Use the PMF Survey when you need to:
 **Books:**
 - *Hacking Growth* by Sean Ellis
 - *The Lean Startup* by Eric Ries
+
+
+## Further Reading
+
+- [Pm Ai Evals](https://pmprompt.com/blog/pm-ai-evals)
+- [Pmf Survey](https://www.productcompass.pm/p/pmf-survey)

@@ -4,6 +4,17 @@ description: Analyze collections of user feedback to identify patterns and theme
 argument-hint: [feedback data]
 ---
 
+## Domain Context
+
+This skill implements a proven product management framework. The approach combines best practices from industry leaders and is designed for practical application in day-to-day PM work.
+
+## Input Requirements
+
+- Context about your product, feature, or problem
+- Relevant data, research, or constraints (recommended but optional)
+- Clear articulation of what you're trying to achieve
+
+
 # User Feedback Synthesizer
 
 ## When to Use
@@ -37,3 +48,8 @@ Your feedback data:
 ## Example
 **Input:** 50 support tickets about onboarding + 20 user interview transcripts
 **Output:** 3 main themes identified (unclear value proposition, confusing UI, missing integrations), prioritized by impact with specific solution recommendations and estimated effort
+
+
+## Further Reading
+
+- [Research Synthesis Guide](https://pmprompt.com/blog/research-synthesis-guide)

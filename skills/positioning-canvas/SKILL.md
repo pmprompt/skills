@@ -3,6 +3,17 @@ name: positioning-canvas
 description: Use when asked to "position my product", "positioning canvas", "differentiate from competitors", "figure out our category", "repositioning", or "why customers should pick us". Helps define competitive alternatives, differentiated value, target customers, and market category. April Dunford's positioning framework from "Obviously Awesome" makes your product's value obvious to the right customers.
 ---
 
+## Domain Context
+
+This skill implements a proven product management framework. The approach combines best practices from industry leaders and is designed for practical application in day-to-day PM work.
+
+## Input Requirements
+
+- Context about your product, feature, or problem
+- Relevant data, research, or constraints (recommended but optional)
+- Clear articulation of what you're trying to achieve
+
+
 # Positioning Canvas
 
 ## What It Is
@@ -49,3 +60,8 @@ Use Positioning Canvas when you need to:
 - *Obviously Awesome* by April Dunford
 - *Sales Pitch* by April Dunford
 - *Positioning: The Battle for Your Mind* by Al Ries and Jack Trout
+
+
+## Further Reading
+
+- [Obviously Awesome Positioning Canvas](https://www.productcompass.pm/p/obviously-awesome-positioning-canvas)
